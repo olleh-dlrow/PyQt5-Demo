@@ -1,0 +1,9 @@
+/build/main/
+/dist/
+*.css
+*.qrc
+*.py
+main.spec
+
+!main.py
+!module.py
